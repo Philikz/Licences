@@ -5,7 +5,9 @@ all fields must be filled
 time should be in 24 hour format
 TEMPLATE:
 Account,day/month/year,hour:minute
-EXAMPLE:
+EXAMPLES:
 54321,30.12.2023,12:22
+23456,00.00.0000,00:00 - no expiry
 */
 12345,20.12.2024,13:41
+23456,00.00.0000,00:00
