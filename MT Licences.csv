@@ -6,8 +6,10 @@ time should be in 24 hour format
 TEMPLATE:
 Account,day/month/year,hour:minute
 EXAMPLES:
-54321,30.12.2023,12:22
-23456,00.00.0000,00:00 - no expiry
+54321,30.12.2023,12:22 - with expiry (expires at set date and time)
+23456 - no expiry (always valid)
+12345,20.12.2024,13:41
+67890
 */
 12345,20.12.2024,13:41
-23456,00.00.0000,00:00
+67890
