@@ -1,4 +1,11 @@
-Account,Expiry
+/*
+Do not delete this heading
+Account,day/month/year,hour:minute
+leave no spaces
+all fields must be filled
+time should be in 24 hour format
+*/
+
 12345,20/12/2024
-54321,30/12/2023 12:22
+54321,30/12/2023,12:22
 56789,4/1/25
