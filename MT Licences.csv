@@ -1,11 +1,11 @@
 /*
-Do not delete this heading
-Account,day/month/year,hour:minute
+DO NOT MODIFY/DELETE THIS HEADING!!
 leave no spaces
 all fields must be filled
 time should be in 24 hour format
-*/
-
-12345,20/12/2024
+TEMPLATE:
+Account,day/month/year,hour:minute
+EXAMPLE:
 54321,30/12/2023,12:22
-56789,4/1/25
+*/
+12345,20/12/2024,13:41
